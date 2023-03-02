@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+<a href="https://dl.circleci.com/status-badge/redirect/gh/abdelrahman-aboelnour/project-ml-microservice-kubernetes/tree/main"><img src="https://dl.circleci.com/status-badge/img/gh/abdelrahman-aboelnour/project-ml-microservice-kubernetes/tree/main.svg?style=svg&circle-token=ae2bd0af915868955e462377a477ade2e1fd7b2e"></a>
 
 ## Project Overview
 
