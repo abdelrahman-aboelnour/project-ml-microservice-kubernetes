@@ -7,7 +7,7 @@ WORKDIR /app
 COPY . /app
 
 ## Step 3:
-RUN pip install --no-cache-dir --disable-pip-version-check --trusted-host pypi.python.org --requirement requirements.txt
+RUN pip install --no-cache-dir  -r requirements.txt
 
 ## Step 4:
 Expose 80
