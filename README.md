@@ -1,4 +1,4 @@
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/abdelrahman-aboelnour/project-ml-microservice-kubernetes/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/abdelrahman-aboelnour/project-ml-microservice-kubernetes/tree/main)
+<a href="https://dl.circleci.com/status-badge/redirect/gh/abdelrahman-aboelnour/project-ml-microservice-kubernetes/tree/main"><img src="https://dl.circleci.com/status-badge/img/gh/abdelrahman-aboelnour/project-ml-microservice-kubernetes/tree/main.svg?style=svg"></a>
 
 ## Project Overview
 
