@@ -1,10 +1,20 @@
+ubuntu@myDesktop:/mnt/f/Work/DevOps/EKS/project_deliverable$ ./make_prediction.sh
+Port: 8000
+{
+  "prediction": [
+    20.35373177134412
+  ]
+}
+
 PS F:\Work\DevOps\EKS\project_deliverable> ./run_kubernetes.ps1
 error: failed to create deployment: deployments.apps "flask-app" already exists
 NAME                         READY   STATUS    RESTARTS   AGE
-flask-app-7c4f955b76-gz5lg   1/1     Running   0          2m57s
+flask-app-7c4f955b76-75qdw   1/1     Running   0          4m1s
 Forwarding from 0.0.0.0:8000 -> 80
 Handling connection for 8000
 Handling connection for 8000
 Handling connection for 8000
 Handling connection for 8000
 Handling connection for 8000
+
+
